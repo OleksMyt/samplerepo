@@ -1,0 +1,89 @@
+2024-01-28 21:51:56 +0000 : New Version Found
+2024-01-28 21:51:56 +0000 : USER ID : 0
+2024-01-28 21:51:56 +0000 : App Version : 2.5(231208)
+2024-01-28 21:51:56 +0000 : OS : Версия 11.7.10 (Выпуск 20G1427)
+2024-01-28 21:51:56 +0000 : TimeZone : America/Chicago GMT-6 -21600
+2024-01-28 21:51:56 +0000 : Locale : ru_UA
+2024-01-28 21:51:56 +0000 : applicationDidFinishLaunching
+2024-01-28 21:51:57 +0000 : API - sysinfo
+2024-01-28 21:51:57 +0000 : API Parameters- {
+    "batt_cycle" = 727;
+    "board_id" = "--";
+    cpu = "Dual-Core Intel Core i5";
+    display = 1280x800;
+    family = "MacBook Pro";
+    "hdd_cap" = 121123069952;
+    "hdd_type" = "--";
+    host = "macbook-pro-alexandr.local";
+    locale = "ru_UA";
+    mac = "78:31:C1:BC:08:3A";
+    model = "MacBookPro11,1";
+    os = "\U0412\U0435\U0440\U0441\U0438\U044f 11.7.10 (\U0412\U044b\U043f\U0443\U0441\U043a 20G1427)";
+    platform = 1;
+    ram = 4294967296;
+    serial = C02M56Y6FGYY;
+    smc = "2.16f68";
+    timezone = "America/Chicago GMT-6 -21600";
+    username = alexandrmitrokhin;
+    uuid = "FC81969E-A943-54B2-B960-2F7560FF1855";
+    version = "--";
+}
+2024-01-28 21:51:59 +0000 : API Response sysinfo - {
+    error =     {
+        code = 200;
+        message = "";
+    };
+    params =     {
+        config =         {
+            "app_bundle_id" = "com.appyogi.wifi-strength";
+            "app_maintenance_enabled" = 1;
+            "app_maintenance_text" = "App is currently under maintenance. Please check back later.";
+            "app_more_native_enabled" = 1;
+            "app_more_promo_enabled" = 1;
+            "app_promo_enabled" = 1;
+            "app_ratings_appOpen" = "6,9";
+            "app_ratings_days" = 5;
+            "app_ratings_enabled" = 1;
+            "app_ratings_events" = 33;
+            "app_ratings_remindPeriod" = 3;
+            "app_share_enabled" = 1;
+            "app_share_text" = "Hey am using [app-name]. You can download from [app-url].";
+            "app_url_about" = "https://appyogi.com/webapps/index.php?product_id=43?&source=com.appyogi.wifi-strength&ref=about";
+            "app_url_api" = Nil;
+            "app_url_base" = Nil;
+            "app_url_more" = "https://appyogi.com/apps/?ref=com.appyogi.wifi-strength&source=app";
+            "app_url_rating" = "macappstore://itunes.apple.com/app/id1177934624";
+            "app_url_support" = "https://appyogi.com/support/?ref=com.appyogi.wifi-strength&source=app";
+            "app_version_current" = "2.5";
+            "app_version_legacy" = "1.9";
+            "app_version_minimum" = "2.0";
+            "app_version_promptForUpdate" = "2.5";
+            "app_version_promptText" = "You are currently using an old version of the app. You enjoy the latest features please Upgrade";
+            "app_welcome_version" = 1678305993;
+            "app_wifi_vendors_updated_at" = 1528182780;
+        };
+        "user_account" =         {
+            "email_id" = "";
+            "is_verified" = "";
+        };
+        "user_id" = 17144;
+    };
+}
+2024-01-28 21:51:59 +0000 : API Error sysinfo - (null)
+2024-01-28 21:51:59 +0000 : API - verify
+2024-01-28 21:51:59 +0000 : API Parameters- {
+    receipt = "Cg==";
+    status = 11402;
+}
+2024-01-28 21:52:01 +0000 : API Response verify - {
+    error =     {
+        code = 400;
+        message = "The data in the receipt-data property was malformed or missing";
+    };
+    "user_id" = 17144;
+}
+2024-01-28 21:52:01 +0000 : API Error verify - (null)
+2024-01-28 21:52:24 +0000 : launchApp
+2024-01-28 21:52:24 +0000 : getLocationPermission
+2024-01-28 21:52:24 +0000 : launchAppData
+2024-01-28 21:54:23 +0000 : quitMenuItem_Clicked
